@@ -1,0 +1,4 @@
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+# Python 3.8+ standard library only

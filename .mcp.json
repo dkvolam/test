@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "file-organizer": {
+      "command": "python",
+      "args": ["-u", "mcp_server.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}
